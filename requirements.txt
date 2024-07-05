@@ -1,0 +1,6 @@
+jupyter-notebook
+textdistance
+python-Levenshtein
+datasets
+jiwer
+nltk
